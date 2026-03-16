@@ -1,2 +1,7 @@
 [border]
 git-tree-sha1 = "ca7804e510af8347f5b4783632f949910b7cd80f"
+lazy = true
+
+    [[border.download]]
+    sha256 = "523f1df6d855ee1272b9351780ed21ffd61f876d844bb53f7abcaaa934558269"
+    url = "https://github.com/sleptworld/GMCN.jl/releases/download/V0.1/border.tar.gz"
